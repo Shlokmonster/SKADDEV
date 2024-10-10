@@ -19,19 +19,15 @@
     
 *** Get in Touch 𝕩, 📧, 📞
 
-
     Personal Website-
-
     
     Linked in-
-
-    
+  
     Email- shlokkadam46@gmail.com
-
-    
+  
     intagram- https://www.instagram.com/shlokkadam.ig/
 
-    
+   
 <!---
 Shlokmonster/Shlokmonster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
